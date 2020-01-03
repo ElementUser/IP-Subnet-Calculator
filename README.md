@@ -1,10 +1,10 @@
 # IP-Subnet-Calculator
 
-# How to Use:
+# How to Use
 
 The IPv4 subnet calculator will take a given subnet mask (GSM) and a host IP address (HIP) as inputs (both of these as additional arguments when ran through the command line, or will assume default values as specified in the code until the operator changes them), and will output the Class Type, Class Bits, Default Subnet Mask, number of borrowed bits, number of subnets, number of host bits, and the number of available hosts. For each subnet index in the total number of subnets, the calculator will also output the subnet ID, the broadcast address, the first host IP address, and the last host IP address.
 
-# Prerequisites:
+# Prerequisites
 
 On the Windows platform, ensure that Python 3 is installed and has its environment path set. The latest stable version of Python 3 can be obtained from the Python website, https://www.python.org/.
 
