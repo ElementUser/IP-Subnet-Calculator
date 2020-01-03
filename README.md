@@ -13,6 +13,8 @@ Afterwards, simply run either the Windows command prompt or Windows Powershell a
 Run calculate.py with either of the following command syntax (without the < or > brackets):
 
 python calculate.py
+
 python calculate.py <givenSubnetMask> <hostIPAddress>
+
 
 The above commands can also be run in Mac or Linux by specifying calculate.py as the target file to run.
