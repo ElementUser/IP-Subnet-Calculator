@@ -10,11 +10,11 @@ On the Windows platform, ensure that Python 3 is installed and has its environme
 
 Afterwards, simply run either the Windows command prompt or Windows Powershell and navigate to the directory calculate.py and ipSubnetLogic.py are in.
 
-Run calculate.py with either of the following command syntax (without the < or > brackets):
+Run calculate.py with either of the following command syntax (without the quotation marks)
 
 python calculate.py
 
-python calculate.py <givenSubnetMask> <hostIPAddress>
+python calculate.py "givenSubnetMask" "hostIPAddress"
 
 
 The above commands can also be run in Mac or Linux by specifying calculate.py as the target file to run.
